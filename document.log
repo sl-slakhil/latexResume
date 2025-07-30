@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.7.29)  30 JUL 2025 07:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.7.29)  30 JUL 2025 07:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1063,35 +1063,26 @@ LaTeX Font Info:    Trying to load font information for T1+ppl on input line 16
 (C:\Users\akhil\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 178.
-
-(C:\Users\akhil\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesomebrand
-s0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
-available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 178.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 22
-4.
- (C:\Users\akhil\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+8.
+
+(C:\Users\akhil\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not a
-vailable
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 271.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 275.
 
+(C:\Users\akhil\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1
+.fd)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 291.
+(hyperref)                removing `\hfill' on input line 295.
 
 [1
 
 {C:/Users/akhil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/akhi
 l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/akhil/App
-Data/Roaming/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
-(document.aux)
+Data/Roaming/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}] (document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1100,24 +1091,24 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 10E570C08B96A04C4EC1F28854575ED4;914.
  ) 
 Here is how much of TeX's memory you used:
- 32078 strings out of 474478
- 652330 string characters out of 5743570
- 1953542 words of memory out of 5000000
- 53847 multiletter control sequences out of 15000+600000
- 584855 words of font info for 75 fonts, out of 8000000 for 9000
+ 32074 strings out of 474478
+ 652157 string characters out of 5743570
+ 1952542 words of memory out of 5000000
+ 53842 multiletter control sequences out of 15000+600000
+ 585102 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,11n,99p,471b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/akhil/AppData/Roaming/MiKTeX/fonts/type1/public/fontawesome5/FontAw
-esome5Brands-Regular.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/akhil/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/akhil/AppData/Local
-/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/akhil/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/akhil/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on document.pdf (1 page, 119065 bytes).
+esome5Free-Solid.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/akhil/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/akhil/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/akhil/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/akhil/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on document.pdf (1 page, 118787 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
