@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.7.29)  29 JUL 2025 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.7.29)  30 JUL 2025 07:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,44 +1084,40 @@ n input line 271.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 293.
+(hyperref)                removing `\hfill' on input line 291.
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 339.
-
-(C:\Users\akhil\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1
-.fd) [1
+[1
 
 {C:/Users/akhil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/akhi
 l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/akhil/App
 Data/Roaming/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
-[2{C:/Users/akhil/AppData/Roaming/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.
-enc}] [3] (document.aux)
+(document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: B8D183C13BC10AE56593CD4577BCB0F5;1789.
+(rerunfilecheck)             Checksum: 10E570C08B96A04C4EC1F28854575ED4;914.
  ) 
 Here is how much of TeX's memory you used:
- 32114 strings out of 474478
- 653042 string characters out of 5743570
- 1960542 words of memory out of 5000000
- 53867 multiletter control sequences out of 15000+600000
- 585160 words of font info for 76 fonts, out of 8000000 for 9000
+ 32078 strings out of 474478
+ 652330 string characters out of 5743570
+ 1953542 words of memory out of 5000000
+ 53847 multiletter control sequences out of 15000+600000
+ 584855 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,12n,99p,537b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,99p,471b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/akhil/AppData/Roaming/MiKTeX/fonts/type1/public/fontawesome5/FontAw
-esome5Brands-Regular.pfb><C:/Users/akhil/AppData/Roaming/MiKTeX/fonts/type1/pub
-lic/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/akhil/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/akhil/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/akhil/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/akhil/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on document.pdf (3 pages, 123124 bytes).
+esome5Brands-Regular.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/akhil/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/akhil/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/akhil/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/akhil/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/akhil/AppData
+/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on document.pdf (1 page, 119065 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
